@@ -1242,6 +1242,10 @@ footer a,
         align-items: center;
     }
 
+   .certificates_gallery img {
+         width:280px;
+   }
+   
 }
 
 @media (min-width: 1355px) {
@@ -1270,10 +1274,6 @@ footer a,
     .team_slider::after {
         display: none;
     }
-   .certificates_gallery img {
-         width:280px;
-   }
-
 
 }
 
