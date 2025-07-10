@@ -636,6 +636,10 @@ nav ul li a:hover {
     justify-content: center;
 }
 
+.certificates_gallery img {
+   flex: 0 1 auto;   
+}
+
 /*====.certificates_gallery END=======*/
 
 /*====.partner=======*/
@@ -1266,7 +1270,9 @@ footer a,
     .team_slider::after {
         display: none;
     }
-
+   .certificates_gallery img {
+         width:280px;
+   }
 
 
 }
