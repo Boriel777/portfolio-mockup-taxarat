@@ -1083,7 +1083,7 @@ footer a,
     }
 }
 
-@media (max-width: 1545px) {
+@media (min-width:300px) and (max-width: 1545px) {
     .iframe {
         width: 90%;
     }
