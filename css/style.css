@@ -1087,6 +1087,10 @@ footer a,
     .iframe {
         width: 90%;
     }
+
+   .certificates_gallery img {
+         width:280px;
+   }
 }
 
 @media (max-width: 1354px) {
@@ -1274,6 +1278,10 @@ footer a,
     .team_slider::after {
         display: none;
     }
+
+   .certificates_gallery img {
+         width:280px;
+   }
 
 }
 
