@@ -401,7 +401,7 @@ nav ul li a:hover {
     width: 100%;
     height: 20rem;
     background-size: cover;
-    background: url("/img/fikry-anshor-znZFuVcGen4-unsplash.jpg") center center / cover no-repeat;
+    background: url("img/fikry-anshor-znZFuVcGen4-unsplash.jpg") center center / cover no-repeat;
     background-attachment: fixed;
     z-index: -1;
 }
