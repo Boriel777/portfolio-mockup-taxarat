@@ -547,6 +547,7 @@ nav ul li a:hover {
 
 .team_slider_track {
     display: flex;
+    margin: 0 auto;
     transition: transform 0.5s cubic-bezier(.77, 0, .18, 1);
     will-change: transform;
 }
