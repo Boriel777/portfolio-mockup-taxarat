@@ -1,4 +1,4 @@
-# TaxaraT – Portfolio Mockup Website
+# TaxaraT – Portfolio Mock Website
 
 **Ein semantisch, responsiv und manuell gecodetes Webdesign-Mockup für eine fiktive Steuerberatungskanzlei.**
 
